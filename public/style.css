@@ -9,14 +9,22 @@
 .center-div{
 padding-top: 10%;
 }
-.btn.btn-success{
+.container{
+    box-shadow: 5px 12px 12px 7px rgb(152, 87, 180);
+}
+.btn.btn-primary{
     padding:.5em 2em;
     margin-top: 15px;
 }
+
 form{
     padding: 0 3em;
 }
 #login.title >span{
     font-size: .8em;
 
+}
+.btn a{
+    text-decoration: none;
+    color: white;
 }
